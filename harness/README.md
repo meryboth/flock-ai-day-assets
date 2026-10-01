@@ -1,0 +1,9 @@
+# Harness de agentes
+
+Un "harness" es la capa de control alrededor de un LLM que lo convierte en un agente: el loop que decide cuándo llamar una herramienta, cómo le devuelve el resultado al modelo, cómo administra el contexto y la memoria entre pasos, y cómo lo mantiene corriendo de forma sostenida — no solo una respuesta suelta. Claude Code es un harness; también lo es cualquier bot propio que arme el equipo. Entender cómo está hecho uno real ayuda mucho más que leerlo en abstracto.
+
+- **[Hermes Agent Fundamentals In 29 Minutes](https://www.youtube.com/watch?v=5_N84t1rUU0)** (Tina Huang) — intro directa a Hermes Agent, el harness open source de Nous Research, para quien nunca armó uno.
+- **[How Hermes implements an open source agent harness architecture](https://arize.com/blog/how-hermes-implements-open-source-agent-harness-architecture/)** (Arize AI) — el artículo técnico: separación entre registro y exposición de herramientas, compresión de contexto, sesiones como infraestructura, sub-agentes aislados.
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — el código real, open source (MIT), para leer la implementación en vez de solo la explicación.
+- **[Harness Engineering Explained in 22 Minutes](https://www.youtube.com/watch?v=UmZytjgs2eo)** (Shaw Talebi) — por qué "harness engineering" se volvió su propia disciplina: qué partes son el modelo y cuáles son la ingeniería alrededor (contexto, herramientas, control de loop).
+- **[AI Engineer Summit 2025 — Agent Engineering (Day 2), playlist completa](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WzqWDdWkN2DnZOhtYI9jyI)** (canal oficial de AI Engineer) — varias charlas del track dedicado a construir agentes en producción. Arranca con **["How We Build Effective Agents" de Barry Zhang (Anthropic)](https://www.youtube.com/watch?v=D7_ipDqhtwk)**, la charla en vivo detrás del artículo que ya está en `orquestadores/`.
