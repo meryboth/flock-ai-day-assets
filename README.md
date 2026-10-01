@@ -15,6 +15,7 @@ No es una colección de todo lo que existe sobre IA — es una selección enfoca
 | [`seguridad-agentes/`](./seguridad-agentes) | Prompt injection, sandboxing, permisos y manejo de secretos al darle autonomía a un agente. |
 | [`papers/`](./papers) | Los papers detrás de los patrones que ya estás usando (ReAct, Toolformer, Reflexion, etc). |
 | [`repos-de-referencia/`](./repos-de-referencia) | Proyectos open source reales para ver estos patrones aplicados, no solo en teoría. |
+| [`cursos/`](./cursos) | Videos y charlas más largas para profundizar antes o después del evento. |
 
 Esto conecta directo con las charlas del día: la de Practitioner (Francisco Sempé) introduce LangGraph, MCP, RAG y AWS Strands — este repo es donde profundizás cualquiera de esos temas si ya los conocés y querés ir más allá.
 
