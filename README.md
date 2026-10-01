@@ -40,6 +40,7 @@ No es una colección de todo lo que existe sobre IA — es una selección enfoca
 | [`evals/`](./evals) | Cómo medir la calidad de un agente de forma sistemática, con un dataset de casos, antes de shippear. |
 | [`memoria-de-agentes/`](./memoria-de-agentes) | Arquitecturas de memoria de corto y largo plazo para que un agente no "olvide" entre sesiones. |
 | [`seguridad-agentes/`](./seguridad-agentes) | Prompt injection, sandboxing, permisos y manejo de secretos al darle autonomía a un agente. |
+| [`sdlc-con-ia/`](./sdlc-con-ia) | Un marco para encarar un proyecto con IA: intent → spec → plan, el SDLC AI-native de Anthropic, el AI-DLC de AWS y Spec-Driven Development. |
 | [`papers/`](./papers) | Los papers detrás de los patrones que ya estás usando (ReAct, Toolformer, Reflexion, etc). |
 | [`repos-de-referencia/`](./repos-de-referencia) | Proyectos open source reales para ver estos patrones aplicados, no solo en teoría. |
 | [`cursos/`](./cursos) | Videos y charlas más largas para profundizar antes o después del evento. |
