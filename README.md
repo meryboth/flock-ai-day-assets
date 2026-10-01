@@ -9,6 +9,7 @@ No es una colección de todo lo que existe sobre IA — es una selección enfoca
 | Carpeta | De qué se trata |
 |---|---|
 | [`orquestadores/`](./orquestadores) | Frameworks para coordinar varios agentes o pasos con estado: LangGraph, CrewAI, AutoGen, AWS Strands. |
+| [`sdks-de-agentes/`](./sdks-de-agentes) | SDKs de base para programar un agente propio: Claude Agent SDK, OpenAI Agents SDK, Google ADK, Vercel AI SDK, Pydantic AI. |
 | [`harness/`](./harness) | Qué es un "harness" (la capa de control de un agente) y un ejemplo real open source para estudiarlo. |
 | [`mcp/`](./mcp) | Model Context Protocol: el estándar para conectar agentes a herramientas y fuentes de datos. |
 | [`rag/`](./rag) | Retrieval-Augmented Generation: chunking, reranking, vector DBs, RAG en producción. |
