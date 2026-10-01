@@ -12,7 +12,9 @@ No es una colección de todo lo que existe sobre IA — es una selección enfoca
 | [`harness/`](./harness) | Qué es un "harness" (la capa de control de un agente) y un ejemplo real open source para estudiarlo. |
 | [`mcp/`](./mcp) | Model Context Protocol: el estándar para conectar agentes a herramientas y fuentes de datos. |
 | [`rag/`](./rag) | Retrieval-Augmented Generation: chunking, reranking, vector DBs, RAG en producción. |
-| [`observabilidad/`](./observabilidad) | Tracing, evals y métricas de costo/latencia/calidad para sistemas con IA. |
+| [`observabilidad/`](./observabilidad) | Tracing y métricas de costo/latencia/calidad para sistemas con IA en producción. |
+| [`evals/`](./evals) | Cómo medir la calidad de un agente de forma sistemática, con un dataset de casos, antes de shippear. |
+| [`memoria-de-agentes/`](./memoria-de-agentes) | Arquitecturas de memoria de corto y largo plazo para que un agente no "olvide" entre sesiones. |
 | [`seguridad-agentes/`](./seguridad-agentes) | Prompt injection, sandboxing, permisos y manejo de secretos al darle autonomía a un agente. |
 | [`papers/`](./papers) | Los papers detrás de los patrones que ya estás usando (ReAct, Toolformer, Reflexion, etc). |
 | [`repos-de-referencia/`](./repos-de-referencia) | Proyectos open source reales para ver estos patrones aplicados, no solo en teoría. |
