@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Flockit · AI Day 2026" width="100%" />
+</p>
+
 # Flock AI Day — Recursos
 
 Lista curada de recursos sobre agentes de IA, armada para **AI Day**: la jornada interna de **Flockit** donde medimos y elevamos el nivel de adopción de IA del equipo. Es un repo público — cualquiera puede usarlo, y cualquiera puede sumar un recurso.
 
+**🔗 [Plataforma del evento](https://ai-day-flockit.vercel.app)** — donde vive el Assessment, los niveles, el rubro de evaluación y el resto del programa (acceso con cuenta de Microsoft de Flockit).
+
 ## Qué es AI Day
 
-AI Day es un evento interno de Flockit donde cada persona completa un Assessment que la ubica en uno de tres niveles de madurez de adopción de IA — **Explorer**, **Practitioner** o **Builder** — y después pasa la jornada trabajando en un desafío acorde a ese nivel. Qué se espera en cada nivel, y qué hace falta para subir al siguiente, vive en la plataforma interna de AI Day; este repo es el complemento de recursos para ir más a fondo en esos temas.
+AI Day es un evento interno de Flockit donde cada persona completa un Assessment que la ubica en uno de tres niveles de madurez de adopción de IA — **Explorer**, **Practitioner** o **Builder** — y después pasa la jornada trabajando en un desafío acorde a ese nivel. Qué se espera en cada nivel, y qué hace falta para subir al siguiente, vive en la [plataforma del evento](https://ai-day-flockit.vercel.app); este repo es el complemento de recursos para ir más a fondo en esos temas.
 
 ## Las capacitaciones del día
 
