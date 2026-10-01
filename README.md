@@ -1,0 +1,23 @@
+# Flock AI Day — Recursos
+
+Recursos curados para el día del evento, pensados para el perfil **Builder**: gente que ya construyó su primera solución agéntica o automatización, y que este día dedica la jornada a analizar y mejorar su propio repositorio en vez de ir a una charla.
+
+No es una colección de todo lo que existe sobre IA — es una selección enfocada en lo que más sirve para subir de nivel según el mismo rubro que ya usa la plataforma de AI Day (orquestación, MCP, RAG, observabilidad, seguridad e impacto de negocio).
+
+## Cómo está organizado
+
+| Carpeta | De qué se trata |
+|---|---|
+| [`orquestadores/`](./orquestadores) | Frameworks para coordinar varios agentes o pasos con estado: LangGraph, CrewAI, AutoGen, AWS Strands. |
+| [`mcp/`](./mcp) | Model Context Protocol: el estándar para conectar agentes a herramientas y fuentes de datos. |
+| [`rag/`](./rag) | Retrieval-Augmented Generation: chunking, reranking, vector DBs, RAG en producción. |
+| [`observabilidad/`](./observabilidad) | Tracing, evals y métricas de costo/latencia/calidad para sistemas con IA. |
+| [`seguridad-agentes/`](./seguridad-agentes) | Prompt injection, sandboxing, permisos y manejo de secretos al darle autonomía a un agente. |
+| [`papers/`](./papers) | Los papers detrás de los patrones que ya estás usando (ReAct, Toolformer, Reflexion, etc). |
+| [`repos-de-referencia/`](./repos-de-referencia) | Proyectos open source reales para ver estos patrones aplicados, no solo en teoría. |
+
+Esto conecta directo con las charlas del día: la de Practitioner (Francisco Sempé) introduce LangGraph, MCP, RAG y AWS Strands — este repo es donde profundizás cualquiera de esos temas si ya los conocés y querés ir más allá.
+
+## Cómo sumar algo
+
+Esto es una lista viva. Si encontrás un recurso que te sirvió, mandá un PR agregándolo al README de la carpeta que corresponda, con una línea explicando por qué vale la pena — no hace falta nada más elaborado que eso.
